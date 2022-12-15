@@ -1,6 +1,6 @@
 # Updates to the Filecoin Spec from FIPs
 
-As we update the Filecoin Protocol 
+As we update the Filecoin Protocol through FIPs, we also need to update the [Spec](https://spec.filecoin.io/):
 
 |FIP #   | Title  | Type  | Author  | FIP Status  | Summary of updates required to Spec | Link to Spec Section(s) | Update Priority | Updated By | Update Completed Date |
 |---|---|---|---|---|---|---|---|---|---|
