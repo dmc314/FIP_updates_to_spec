@@ -1,13 +1,9 @@
-# FIP_updates_to_spec
-Organizing Updates to the Filecoin Spec from FIPs
+# Updates to the Filecoin Spec from FIPs
 
-distribution of humanity’s information. To help the network grow and evolve, it is critical for the community to collectively be engaged in proposing, discussing, and implementing changes that improve the network and its operations.
+As we update the Filecoin Protocol 
 
-This improvement protocol helps achieve that objective for all members of the Filecoin community (developers, miners, clients, token holders, ecosystem partners, and more).
-
-
-|FIP #   | Title  | Type  | Author  | Status  |
-|---|---|---|---|---|
+|FIP #   | Title  | Type  | Author  | FIP Status  | Summary of updates required to Spec | Link to Spec Section(s) | Update Priority | Updated By | Update Completed Date |
+|---|---|---|---|---|---|---|---|---|---|
 |[0001](https://github.com/filecoin-project/FIPs/blob/master/FIPS/fip-0001.md)   | FIP Purpose and Guidelines  | FIP  | @Whyrusleeping  | Active  |
 |[0002](https://github.com/filecoin-project/FIPs/blob/master/FIPS/fip-0002.md)   | Free Faults on Newly Faulted Sectors of a Missed WindowPoSt  | FIP | @anorth, @davidad, @miyazono, @irenegia, @lucaniz, @nicola, @zixuanzh   |Final   |
 |[0003](https://github.com/filecoin-project/FIPs/blob/master/FIPS/fip-0003.md)   | Filecoin Plus Principles  | FIP  | @feerst, @jbenet, @jnthnvctr, @tim-murmuration, @mzargham, @zixuanzh  |Active   |
