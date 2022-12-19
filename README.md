@@ -1,4 +1,4 @@
-# Updates to the Filecoin Spec from FIPs
+# Updates Required in the Filecoin Spec from FIPs
 
 As we update the Filecoin Protocol through FIPs, we also need to update the [Spec](https://spec.filecoin.io/):
 
@@ -57,5 +57,10 @@ As we update the Filecoin Protocol through FIPs, we also need to update the [Spe
 |[0050](https://github.com/filecoin-project/FIPs/blob/master/FIPS/fip-0050.md)   | API Between User-Programmed Actors and Built-In Actors | FIP  |@anorth, @arajasek | Draft  |
 |[0052](https://github.com/filecoin-project/FIPs/blob/master/FIPS/fip-0052.md)   | Increase max sector commitment to 3.5 years | FIP  |@anorth | Draft  |
 |[0053](https://github.com/filecoin-project/FIPs/blob/master/FRCs/frc-0053.md)   | Non-Fungible Token Standard | FRC  |@alexytsu, @abright, @anorth | Draft  |
-|---|---|---|---|---|---|---|---|---|---|
-|FIP # Unknown  | ?  | ?  | ?  | Final  | Termination Fee in Spec is 90 days of BR, but is different in [Codebase here](https://github.com/filecoin-project/specs-actors/blob/3c87d38a4829460c92a084465521f649d7613796/actors/builtin/miner/miner_actor.go#L2406) | [Initial Paremeter Recommendations](https://spec.filecoin.io/#section-algorithms.cryptoecon.initial-parameter-recommendation), Possible Other Sections?... | High | *Updated By* | *Updated At* |
+
+
+# Updates Required in the Filecoin Spec that are NOT associated with FIPs
+
+| Summary of updates required to Spec | Link to Spec Section(s) | Update Priority | Updated By | Update Completed Date |
+|---|---|---|---|---|
+| Termination Fee in Spec is 90 days of BR, but is different in [Codebase here](https://github.com/filecoin-project/specs-actors/blob/3c87d38a4829460c92a084465521f649d7613796/actors/builtin/miner/miner_actor.go#L2406) | [Initial Parameter Recommendations](https://spec.filecoin.io/#section-algorithms.cryptoecon.initial-parameter-recommendation), Possible Other Sections?... | High | *Updated By* | *Updated At* |
